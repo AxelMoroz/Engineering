@@ -1,4 +1,5 @@
 # Engineering - Limit Calculus
+need to calculate if limits exists in:
 <img width="258" height="49" alt="image" src="https://github.com/user-attachments/assets/8b46f5fc-122a-45f6-9b8a-fb14c0ee4cfa" />
 <br>
 <img width="563" height="608" alt="image" src="https://github.com/user-attachments/assets/d44c248e-90b8-4b16-90cd-c769809616d2" />
